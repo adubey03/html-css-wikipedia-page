@@ -1,0 +1,55 @@
+html{
+    border: 3px solid #0000ff;
+    margin: 4px;
+}
+.heading{
+    text-align: center;
+    border-bottom: 1px solid;
+    height: 12.5vh;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ff0000;
+    color: #ffffff;
+    display: block;
+}
+.head1{
+    position: relative;
+}
+
+.head2{
+    margin-top: -14px;
+}
+.photo{
+    float: left;
+    margin-left: 0px;
+    margin-top: -8px;
+    display: block;
+    position: relative;
+}
+.caption{
+    text-align: center;
+    font-family: sans-serif;
+    position: relative;
+}
+.personal_details{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    
+}
+.list{
+    padding: 0vh;
+    text-align: left;
+    margin-left: 115vh;
+    font-family: sans-serif;
+    color: #ff0000;
+}
+.second_heading{
+    border-bottom: 1px solid black;
+    height: 55vh;
+}
+.description{
+    font-family: sans-serif;
+    text-align: justify;
+    background-color: #ff0000;
+    color: #ffffff;
+    }
